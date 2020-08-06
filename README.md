@@ -1,6 +1,6 @@
 ## About me
 
-Hi, I'm Igor!
+Hey, I'm Igor!
 
 In high school times I was interested in competitive programming.
 
