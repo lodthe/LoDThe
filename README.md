@@ -3,7 +3,7 @@
 Hello, I'm Igor!
 
 <p align="center">
-  <img src="https://github.com/LoDThe/LoDThe/blob/master/slowparrot.gif?raw=true">
+  <img src="https://github.com/LoDThe/LoDThe/blob/main/slowparrot.gif?raw=true">
 </p>
 
 In high school times I was interested in competitive programming.
