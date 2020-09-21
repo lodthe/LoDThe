@@ -15,3 +15,5 @@ Moreover, I work as a Golang Software Engineer at Chatex &mdash; a peer-to-peer 
 ## Me on other resources
 - [LinkedIn](https://www.linkedin.com/in/baliukigor)
 - [Telegram](https://t.me/lodthe)
+
+![](https://komarev.com/ghpvc/?username=lodthe)
