@@ -18,6 +18,8 @@ Keywords: C++, Golang, PostgreSQL, algorithms and data structures.
 - [LinkedIn](https://www.linkedin.com/in/baliukigor)
 - [Telegram](https://t.me/lodthe)
 
+## Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lodthe&show_icons=true">
 </p>
