@@ -21,7 +21,7 @@ Keywords: C++, Golang, PostgreSQL, algorithms and data structures.
 ## Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lodthe&show_icons=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=lodthe&show_icons=true&count_private=true">
 </p>
 
 ![](https://komarev.com/ghpvc/?username=lodthe)
