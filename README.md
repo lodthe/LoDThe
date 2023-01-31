@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://github.com/LoDThe/LoDThe/blob/main/slowparrot.gif?raw=true">
+  <img src="https://github.com/lodthe/lodthe/blob/main/slowparrot.gif?raw=true">
 </p>
 
 Hi, I'm Igor!
 
-Currently, I'm getting a Bachelor's degree in Computer Science at Higher School of Economics, Moscow, Russia. I'm graduating in 2023. Also, I work as a Golang SWE and do some things around service mesh and telemetry.
+I'm a Platform Engineer with a strong interest in Kubernetes, observability tools, service meshes and other modern cloud-native approaches
 
-My interests: Golang, algorithms and data structures, blockchain, databases and distributed systems.
+I used to solve competitive programming contests early, then I switched my focus to algorithms and approaches behind distributed systems.
 
 ## Me on other resources
 - [LinkedIn](https://www.linkedin.com/in/baliukigor)
