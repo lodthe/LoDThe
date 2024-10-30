@@ -8,9 +8,9 @@ I'm a Platform Engineer with a strong interest in Kubernetes, observability tool
 
 I used to solve competitive programming contests early, then I switched my focus to algorithms and approaches behind distributed systems.
 
-## Me on other resources
+## Contacts
 - [LinkedIn](https://www.linkedin.com/in/baliukigor)
-- [Telegram](https://t.me/lodthe)
+- baliuk.{my_name}@gmail.com
 
 
 ![](https://komarev.com/ghpvc/?username=lodthe)
