@@ -8,4 +8,4 @@ I used to solve competitive programming contests early, then I switched my focus
 
 ## Me on other resources
 - [LinkedIn](https://www.linkedin.com/in/baliukigor)
-- [Telegram](https://t.me/lodthe)
+- baliuk.{my_name}@gmail.com
